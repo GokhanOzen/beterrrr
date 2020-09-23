@@ -1,0 +1,3 @@
+pnpm install simple-youtube-api
+pnpm i ytdl-core
+npm i figlet
